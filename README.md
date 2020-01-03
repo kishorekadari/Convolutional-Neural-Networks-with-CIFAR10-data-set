@@ -16,4 +16,3 @@ Goals:
 
 3 Show the coefficients  of the  first  5  filters in  the 1st and 2nd convolutional  layers as images after training is done, on a single figure as subplots.
 
-4 Comment on your resultsfor goals 1,2, and 3, a few sentences each, in a Markdown cell at the end of your Jupyter notebookas the final cell. See Figure 1. for how to do that. Contact TA if you have questions on this.
